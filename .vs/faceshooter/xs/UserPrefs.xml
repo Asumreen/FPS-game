@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{99E1957A-FA01-B575-2ADC-E9B1F05E7810}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/gamecontroller.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/AKScript.cs" Line="26" Column="37" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/gamecontroller.cs" Line="24" Column="19" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/GunFire.cs" Line="32" Column="42" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="68" Column="51" />
+      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/CroosAinmat.cs" Line="4" Column="45" />
+      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/handGunDamde.cs" Line="23" Column="42" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/Pickup9mm.cs" Line="42" Column="32" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PlayerCast.cs" Line="20" Column="43" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/openDoorScript.cs" Line="42" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
